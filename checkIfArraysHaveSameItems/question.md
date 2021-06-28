@@ -18,10 +18,10 @@ const array2 = ["z", "y", "x"];
 
 ## Assumptions
 
-Inputs
+**Inputs**
 : inputs are always going to be arrays, arrays have no size limit, arrays could contain any data type
 
-Output
+**Output**
 : Simply returns true if arrays contain common items and false if not
 
-We are trying to write the most efficient code possible
+**We are trying to write the most efficient code possible**
